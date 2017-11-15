@@ -1,6 +1,6 @@
 node_modules/
-dist/
 .idea/
+LICENSE
 .DS_Store
 .happypack
 npm-debug.log
