@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.idea/
+.DS_Store
+.happypack
+npm-debug.log
+yarn-error.log
